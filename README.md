@@ -8,4 +8,8 @@ Repositório de script python para conexão ao ollama e geração de embeddings.
 3) Verificar as versões do ollama instaladas com: ollama list
 4) Testar o funcionamento com o comando: ollama run llama3.2
 5)Instalar o microsoft c++ build tools: https://visualstudio.microsoft.com/visual-cpp-build-tools/
-6) Instalar a biblioteca python gensim de processamento de linguagem natural a partir do comando: pip install gensim
+6)pip install numpy==1.26.4 --prefer-binary
+pip install scipy --prefer-binary
+pip install gensim
+
+7) Instalar a biblioteca python gensim de processamento de linguagem natural a partir do comando: pip install gensim
