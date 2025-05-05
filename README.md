@@ -17,3 +17,5 @@ Repositório de script python para conexão ao ollama e geração de embeddings.
 
 7) Instalar pacotes para o funcionamento correto do código: pip install langchain-community scikit-learn numpy
 
+8)Baixar o código e rodar na IDE de preferência
+
