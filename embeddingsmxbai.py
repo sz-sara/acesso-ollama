@@ -5,7 +5,7 @@ from langchain_ollama import OllamaEmbeddings
 
 embeddings = OllamaEmbeddings(model="mxbai-embed-large")
 
-texto = "A realidade sempre é mais ou menos do que nós queremos."
+texto = "batatinha quando nasce espalha a rama pelo chao"
 
 vetor = embeddings.embed_query(texto)
 
